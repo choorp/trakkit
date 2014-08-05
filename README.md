@@ -1,6 +1,6 @@
-bootplate
+Trakkit
 =========
 
-Application template for packaged Enyo
+Super simple package tracking app!
 
-Refer to the [Wiki](https://github.com/enyojs/enyo/wiki/Bootplate) for how to get started.
+Please note: This is a work in progress and only works with USPS and UPS right now.
